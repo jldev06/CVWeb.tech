@@ -321,7 +321,7 @@
             padding-right: 20px;
             padding-bottom: 20px;
             padding-top: 20px;
-            font-size: 35px;
+            font-size: 45px;
             color: white;
         }
         main {
@@ -351,16 +351,16 @@
         .pilecv-image {
             display: flex;
             display: flex;
-            height: 100%;
-            width: 100%;
-            object-fit: cover;
+            height: 70%;
+            width: 70%;
+            object-fit: contain;
         }
         .container-réponse {
             display: flex;
             height: 100px;
             width: 100%;
             color: #fa5b00;
-            font-size: 50px;
+            font-size: 70px;
             align-items: center;
             justify-content: center;
             text-align: center;
@@ -381,7 +381,7 @@
             width: 100%;
             color: white;
             background-color: #fa5b00;
-            font-size: 35px;
+            font-size: 45px;
             align-items: center;
             justify-content: center;
             text-align: center;
@@ -399,14 +399,14 @@
             align-items: center;
             padding-top: 20px;
             padding-bottom: 20px;
-            font-size: 20px;
+            font-size: 25px;
         }
         .texte-miseenligne {
             display: flex;
             height: auto;
             width: 100%;
             color: #fa5b00;
-            font-size: 50px;
+            font-size: 70px;
             align-items: center;
             justify-content: center;
             text-align: center;
@@ -427,7 +427,7 @@
             padding-bottom: 20px;
             padding-left: 10px;
             padding-right: 10px;
-            font-size: 20px;
+            font-size: 25px;
         }
         footer {
             display: flex;
@@ -437,7 +437,7 @@
             justify-content: center;
             text-align: center;
             background-color: #fa5b00;
-            font-size: 30px;
+            font-size: 45px;
             color: white;
             padding-left: 20px;
             padding-right: 20px;
